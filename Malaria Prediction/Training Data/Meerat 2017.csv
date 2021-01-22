@@ -1,0 +1,13 @@
+Month,Max.Temperature,Min.Temperature,Humidity,Rainfall,Total Cases,PF Cases
+January,25,4,85,30,36,0
+February,32,9,71,16,37,0
+March,38,10,57,17,37,0
+April,42,17,40,5,0,0
+May,44,22,46,11,1,0
+June,44,22,60,45,6,0
+July,38,25,77,261,7,0
+August,38,25,76,314,15,0
+September,37,23,73,166,22,0
+October,36,17,67,56,29,0
+November,31,9,73,6,36,0
+December,27,7,72,9,36,0
